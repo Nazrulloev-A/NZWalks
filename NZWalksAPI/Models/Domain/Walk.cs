@@ -13,6 +13,6 @@ public class Walk
     // Navigation proprerties
 
     public Difficulty Difficulty { get; set; }
-    public Regions Regions { get; set; }
+    public Region Regions { get; set; }
 
 }
